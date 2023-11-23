@@ -21,3 +21,5 @@
 <!-- ![Snake animation](https://github.com/ubiratan-motta/ubiratan-motta/blob/output/github-contribution-grid-snake.svg) -->
 
 <!-- ![snake gif](https://github.com/LeonarooVieiraGuimaraes/LeonarooVieiraGuimaraes/blob/output/github-contribution-grid-snake.gif) -->
+
+![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
