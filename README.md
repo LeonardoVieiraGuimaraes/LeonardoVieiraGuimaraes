@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoVieiraGuimaraes&show&icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoVieiraGuimaraes&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoVieiraGuimaraes&hide_progress=true$them=transparent)
 
 
-![Snake Game](https://github.com/LeonardoVieiraGuimaraes/LeonardoVieiraGuimaraes/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake Game](https://github.com/LeonardoVieiraGuimaraes/LeonardoVieiraGuimaraes/blob/output/github-contribution-grid-snake.svg) -->
 
 
 <!-- ![Snake animation](https://github.com/ubiratan-motta/ubiratan-motta/blob/output/github-contribution-grid-snake.svg) -->
 
-![snake gif](https://github.com/LeonarooVieiraGuimaraes/LeonarooVieiraGuimaraes/blob/output/github-contribution-grid-snake.gif)
+<!-- ![snake gif](https://github.com/LeonarooVieiraGuimaraes/LeonarooVieiraGuimaraes/blob/output/github-contribution-grid-snake.gif) -->
