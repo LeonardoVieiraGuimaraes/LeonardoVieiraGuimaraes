@@ -2,8 +2,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoVieiraGuimaraes&show&icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoVieiraGuimaraes&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoVieiraGuimaraes&hide_progress=true)
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LeonardoVieiraGuimaraes)](https://github.com/anuraghazra/github-readme-stats)
