@@ -12,7 +12,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoVieiraGuimaraes&show&icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoVieiraGuimaraes&hide_progress=true$theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoVieiraGuimaraes&hide_progress=true&theme=transparent)
 
 
 <!-- ![Snake Game](https://github.com/LeonardoVieiraGuimaraes/LeonardoVieiraGuimaraes/blob/output/github-contribution-grid-snake.svg) -->
