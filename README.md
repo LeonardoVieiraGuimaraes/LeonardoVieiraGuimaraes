@@ -1,8 +1,6 @@
 ### Olá, Eu so Leonardo Vieira Guimarães 👋
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Professor and Developer
+- 🔭  Atualmente estou trabalhando como Professor e Desenvolvedor
 <!-- - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,7 +12,7 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoVieiraGuimaraes&show&icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoVieiraGuimaraes&hide_progress=true$them=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoVieiraGuimaraes&hide_progress=true$theme=transparent)
 
 
 <!-- ![Snake Game](https://github.com/LeonardoVieiraGuimaraes/LeonardoVieiraGuimaraes/blob/output/github-contribution-grid-snake.svg) -->
