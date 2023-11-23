@@ -26,6 +26,14 @@
   <!-- <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
 </div>
   
+<!-- <div>
+  <a href="https://www.leoproti.com.br">
+    <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Ícone de globo" width="20" height="30">Portfolio
+  </a>
+</div> -->
+
+</div>
+
 
 <!-- ![Snake Game](https://github.com/LeonardoVieiraGuimaraes/LeonardoVieiraGuimaraes/blob/output/github-contribution-grid-snake.svg) -->
 
@@ -42,11 +50,3 @@
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture> -->
-
-<div>
-  <a href="https://www.leoproti.com.br">
-    <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Ícone de globo" width="20" height="20">
-  </a>
-</div>
-
-</div>
