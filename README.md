@@ -1,5 +1,5 @@
 
-<div>
+<div align="center">
 <h1 >Olá, Eu sou Leonardo Vieira Guimarães 👋</h1>
 
 <br>
@@ -32,7 +32,7 @@
 	<hr width="60%">
 	<table>
 		<tr>
-			<td width="250">
+			<td align="center" width="250">
 				<h3>🎓 <b>Formação</b></h3>
 				<ul>
 					<li>Doutorando em Modelagem Matemática e Computacional <br><a href="https://www.cefetmg.br/" target="_blank">(CEFET-MG)</a></li>
