@@ -39,14 +39,14 @@
     <hr width="60%">
     <table>
       <tr>
-        <td align="center" width="250">
+        <td align="left" width="250">
           <h3>🎓 <b>Formação</b></h3>
-          <ul style="text-align:left;">
+          <ul>
             <li>Doutorando em Modelagem Matemática e Computacional (CEFET-MG)
             <li>Mestre em Modelagem Computacional e Sistemas (UNIMONTES)</a></li>
           </ul>
         </td>
-        <td align="center" width="250">
+        <td align="left" width="250">
           <h3>👨‍💻 <b>Desenvolvimento</b></h3>
           <ul>
             <li>Full Stack: Web, Mobile e Sistemas Python</li>
@@ -55,7 +55,7 @@
             <li>Inteligência Artificial com pipeline Python e TensorFlow</li>
           </ul>
         </td>
-        <td align="center" width="250">
+        <td align="left" width="250">
           <h3>🧑‍🏫 <b>Ensino</b></h3>
           <ul>
             <li>Professor universitário nas áreas de TI, Matemática, Arquitetura Web, Banco de Dados, Estatística, Probabilidade e Finanças</li>
