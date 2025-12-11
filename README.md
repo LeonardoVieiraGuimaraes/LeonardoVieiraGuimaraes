@@ -23,30 +23,45 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="30">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="30">
 
----
 
-<strong>🔬 Doutorando em Modelagem Computacional</strong><br>
-<strong>💻 Especialista em Spring Boot, Django, Ninja, Git e GitHub</strong><br>
-<strong>👨‍🏫 Professor e Desenvolvedor</strong>
-<strong>🎓 Doutorando em Modelagem Matemática e Computacional (CEFET-MG)</strong><br>
-<strong>📚 Mestre em Modelagem Computacional e Sistemas (UNIMONTES)</strong><br>
-<strong>👨‍💻 Desenvolvedor Full Stack: Web, Mobile e Sistemas Python</strong><br>
-<strong>🧑‍🏫 Professor universitário nas áreas de TI, Matemática, Arquitetura Web, Banco de Dados, Estatística, Probabilidade e Finanças</strong><br>
-<strong>🚀 Projetos inovadores em tecnologia, educação e ciência de dados</strong><br>
-<strong>💡 Experiência com Spring Boot, Django, React, Next.js, Docker, Nginx, Java, PHP, TypeScript, Vue.js, Angular, HTML5, CSS3</strong><br>
-<strong>🤖 Especialista em Inteligência Artificial utilizando pipeline Python e TensorFlow</strong><br>
-<!-- - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+<hr>
 
+<div align="center">
+	<table>
+		<tr>
+			<td align="center" width="250">
+				<h3>🎓 Formação</h3>
+				<ul>
+					<li>Doutorando em Modelagem Matemática e Computacional (CEFET-MG)</li>
+					<li>Mestre em Modelagem Computacional e Sistemas (UNIMONTES)</li>
+				</ul>
+			</td>
+			<td align="center" width="250">
+				<h3>👨‍💻 Desenvolvimento</h3>
+				<ul>
+					<li>Full Stack: Web, Mobile e Sistemas Python</li>
+					<li>Especialista em Spring Boot, Django, Ninja, Git e GitHub</li>
+					<li>Experiência com React, Next.js, Docker, Nginx, Java, PHP, TypeScript, Vue.js, Angular, HTML5, CSS3</li>
+					<li>Inteligência Artificial com pipeline Python e TensorFlow</li>
+				</ul>
+			</td>
+			<td align="center" width="250">
+				<h3>🧑‍🏫 Ensino</h3>
+				<ul>
+					<li>Professor universitário nas áreas de TI, Matemática, Arquitetura Web, Banco de Dados, Estatística, Probabilidade e Finanças</li>
+				</ul>
+			</td>
+		</tr>
+	</table>
+</div>
 
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoVieiraGuimaraes&show&icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+<hr>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoVieiraGuimaraes&hide_progress=true&theme=transparent) -->
+<div align="center">
+	<strong>🚀 Projetos inovadores em tecnologia, educação e ciência de dados</strong>
+</div>
+
+<hr>
 
 ---
 
