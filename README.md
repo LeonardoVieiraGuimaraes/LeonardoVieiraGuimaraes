@@ -44,6 +44,8 @@
           <ul>
             <li>Doutorando em Modelagem Matemática e Computacional (CEFET-MG)
             <li>Mestre em Modelagem Computacional e Sistemas (UNIMONTES)</a></li>
+             <li></li>
+              <li></li>
           </ul>
         </td>
         <td align="left" width="250">
@@ -59,6 +61,8 @@
           <h3>🧑‍🏫 <b>Ensino</b></h3>
           <ul>
             <li>Professor universitário nas áreas de TI, Matemática, Arquitetura Web, Banco de Dados, Estatística, Probabilidade e Finanças</li>
+             <li></li>
+            <li></li>
           </ul>
         </td>
       </tr>
