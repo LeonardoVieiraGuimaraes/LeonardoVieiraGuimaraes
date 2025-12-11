@@ -39,7 +39,7 @@
       <tr>
         <td align="center" width="250">
           <h3>🎓 <b>Formação</b></h3>
-          <ul align="">
+          <ul style="text-align:left;">
             <li>Doutorando em Modelagem Matemática e Computacional (CEFET-MG)
             <li>Mestre em Modelagem Computacional e Sistemas (UNIMONTES)</a></li>
           </ul>
