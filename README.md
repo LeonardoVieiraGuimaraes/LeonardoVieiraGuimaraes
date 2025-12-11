@@ -27,8 +27,9 @@
 
 
 <div align="center">
-	<img src="https://leoproti.com.br/images/logo.svg" alt="Logo" width="80" />
-	<h2>🚀 <b>Perfil Profissional</b> 🚀</h2>
+<img src="https://leoproti.com.br/images/logo.svg" alt="Logo" width="80" />
+<img src="https://leoproti.com.br/images/banner.png" alt="Banner Leonardo Vieira Guimarães" width="100%" />
+<h2><b>Perfil Profissional</b></h2>
 	<hr width="60%">
 	<table>
 		<tr>
@@ -60,11 +61,8 @@
 	<h3>🌟 <b>Projetos inovadores em tecnologia, educação e ciência de dados</b> 🌟</h3>
 </div>
 
-<hr>
 
 ---
 
-## 🌐 Meu Portfólio
 
-Confira mais detalhes em [leoproti.com.br](https://leoproti.com.br)
 
