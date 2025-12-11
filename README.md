@@ -26,7 +26,6 @@
 ---
 
 <strong>🔬 Doutorando em Modelagem Computacional</strong><br>
-<strong>🚀 Apaixonado por Deploy na Nuvem</strong><br>
 <strong>💻 Especialista em Spring Boot, Django, Ninja, Git e GitHub</strong><br>
 <strong>👨‍🏫 Professor e Desenvolvedor</strong>
 <strong>🎓 Doutorando em Modelagem Matemática e Computacional (CEFET-MG)</strong><br>
@@ -45,9 +44,9 @@
 - ⚡ Fun fact: ... -->
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoVieiraGuimaraes&show&icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoVieiraGuimaraes&show&icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoVieiraGuimaraes&hide_progress=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoVieiraGuimaraes&hide_progress=true&theme=transparent) -->
 
 ---
 
@@ -55,64 +54,3 @@
 
 Confira mais detalhes em [leoproti.com.br](https://leoproti.com.br)
 
-**Perfil:**
-Professor universitário, desenvolvedor front-end e back-end, mestre e doutorando em Modelagem Computacional.
-
-**Serviços:**
-- Desenvolvimento web (React.js, Next.js, HTML5, CSS3)
-- Sistemas com Python
-- Apps mobile (React Native, Kivy, Kodular)
-- Aulas de TI e Matemática
-
-**Projetos Acadêmicos:**
-- RFID para bovinos
-- Monitoramento por imagens
-- Mineração de dados do Enem/Enade
-- Acidentes de trânsito
-- Visão computacional
-- Artigos publicados
-
-**Projetos de Desenvolvimento:**
-- Sistemas para saúde
-- Videoaulas de estatística, matemática financeira, projetos integradores
-
-**Skills:**
-HTML5/CSS3, JavaScript, Django, Python, React.js, Node.js, Docker, Nginx, Java, PHP, TypeScript, Vue.js, Angular
-
-**Contato:**
-[WhatsApp](https://wa.me/5538999352408?text=Ol%C3%A1...), [E-mail](mailto:leonardovieiraxy@hotmail.com?subject=Contato%20via%20Portf%C3%B3lio), [GitHub](https://github.com/LeonardoVieiraGuimaraes), [LinkedIn](https://linkedin.com/in/leonardo-vieira-guimaraes)
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <!-- <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
-</div>
-  
-<!-- <div>
-  <a href="https://www.leoproti.com.br">
-    <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Ícone de globo" width="20" height="30">Portfolio
-  </a>
-</div> -->
-
-</div>
-
-
-<!-- ![Snake Game](https://github.com/LeonardoVieiraGuimaraes/LeonardoVieiraGuimaraes/blob/output/github-contribution-grid-snake.svg) -->
-
-
-<!-- ![Snake animation](https://github.com/ubiratan-motta/ubiratan-motta/blob/output/github-contribution-grid-snake.svg) -->
-
-<!-- ![snake gif](https://github.com/LeonarooVieiraGuimaraes/LeonarooVieiraGuimaraes/blob/output/github-contribution-grid-snake.gif) -->
-
-<!-- ![snake gif](https://github.com/LeonardoVieiraGuimaraes/LeonardoVieiraGuimaraes/blob/output/github-contribution-grid-snake.svg) -->
-
-
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture> -->
