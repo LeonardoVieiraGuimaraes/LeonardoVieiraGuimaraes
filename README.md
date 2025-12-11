@@ -2,7 +2,8 @@
 <div align="center">
 <h1 >Olá, Eu sou Leonardo Vieira Guimarães 👋</h1>
 
-<br>
+---
+
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" height="30">
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" height="30">
 <img src="https://img.shields.io/badge/Ninja-000000?style=for-the-badge&logo=ninja&logoColor=white" alt="Ninja" height="30">
@@ -22,43 +23,46 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="30">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="30">
 
-
-<hr>
-
+---
 
 <div align="center">
-<img src="https://leoproti.com.br/images/logo.svg" alt="Logo" width="80" />
-<img src="https://leoproti.com.br/images/banner.png" alt="Banner Leonardo Vieira Guimarães" width="100%" />
-<h2><b>Perfil Profissional</b></h2>
-	<hr width="60%">
-	<table>
-		<tr>
-			<td align="center" width="250">
-				<h3>🎓 <b>Formação</b></h3>
-				<ul>
-					<li>Doutorando em Modelagem Matemática e Computacional <br><a href="https://www.cefetmg.br/" target="_blank">(CEFET-MG)</a></li>
-					<li>Mestre em Modelagem Computacional e Sistemas <br><a href="https://www.unimontes.br/" target="_blank">(UNIMONTES)</a></li>
-				</ul>
-			</td>
-			<td align="center" width="250">
-				<h3>👨‍💻 <b>Desenvolvimento</b></h3>
-				<ul>
-					<li>Full Stack: Web, Mobile e Sistemas Python</li>
-					<li>Especialista em Spring Boot, Django, Ninja, Git e GitHub</li>
-					<li>Experiência com <b>React, Next.js, Docker, Nginx, Java, PHP, TypeScript, Vue.js, Angular, HTML5, CSS3</b></li>
-					<li>Inteligência Artificial com pipeline Python e TensorFlow</li>
-				</ul>
-			</td>
-			<td align="center" width="250">
-				<h3>🧑‍🏫 <b>Ensino</b></h3>
-				<ul>
-					<li>Professor universitário nas áreas de TI, Matemática, Arquitetura Web, Banco de Dados, Estatística, Probabilidade e Finanças</li>
-				</ul>
-			</td>
-		</tr>
-	</table>
-	<hr width="60%">
-	<h3>🌟 <b>Projetos inovadores em tecnologia, educação e ciência de dados</b> 🌟</h3>
+	<a href="https://leoproti.com.br" target="_blank">
+		<img src="https://img.shields.io/badge/Acesse%20meu%20portfólio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio Leonardo Vieira Guimarães" />
+	</a>
+</div>
+
+---
+<div>
+  <h2><b>Perfil Profissional</b></h2>
+    <hr width="60%">
+    <table>
+      <tr>
+        <td align="center" width="250">
+          <h3>🎓 <b>Formação</b></h3>
+          <ul align="">
+            <li>Doutorando em Modelagem Matemática e Computacional (CEFET-MG)
+            <li>Mestre em Modelagem Computacional e Sistemas (UNIMONTES)</a></li>
+          </ul>
+        </td>
+        <td align="center" width="250">
+          <h3>👨‍💻 <b>Desenvolvimento</b></h3>
+          <ul>
+            <li>Full Stack: Web, Mobile e Sistemas Python</li>
+            <li>Especialista em Spring Boot, Django, Ninja, Git e GitHub</li>
+            <li>Experiência com <b>React, Next.js, Docker, Nginx, Java, PHP, TypeScript, Vue.js, Angular, HTML5, CSS3</b></li>
+            <li>Inteligência Artificial com pipeline Python e TensorFlow</li>
+          </ul>
+        </td>
+        <td align="center" width="250">
+          <h3>🧑‍🏫 <b>Ensino</b></h3>
+          <ul>
+            <li>Professor universitário nas áreas de TI, Matemática, Arquitetura Web, Banco de Dados, Estatística, Probabilidade e Finanças</li>
+          </ul>
+        </td>
+      </tr>
+    </table>
+    <hr width="60%">
+    <h3>🌟 <b>Projetos inovadores em tecnologia, educação e ciência de dados</b> 🌟</h3>
 </div>
 
 
