@@ -34,42 +34,7 @@
 
 ---
 
-<div>
-  <h2><b>Perfil Profissional</b></h2>
-    <hr width="60%">
-    <table>
-      <tr>
-        <td align="left" width="250">
-          <h3>🎓 <b>Formação</b></h3>
-          <ul>
-            <li>Doutorando em Modelagem Matemática e Computacional (CEFET-MG)
-            <li>Mestre em Modelagem Computacional e Sistemas (UNIMONTES)</a></li>
-             <li></li>
-              <li></li>
-          </ul>
-        </td>
-        <td align="left" width="250">
-          <h3>👨‍💻 <b>Desenvolvimento</b></h3>
-          <ul>
-            <li>Full Stack: Web, Mobile e Sistemas Python</li>
-            <li>Especialista em Spring Boot, Django, Ninja, Git e GitHub</li>
-            <li>Experiência com <b>React, Next.js, Docker, Nginx, Java, PHP, TypeScript, Vue.js, Angular, HTML5, CSS3</b></li>
-            <li>Inteligência Artificial com pipeline Python e TensorFlow</li>
-          </ul>
-        </td>
-        <td align="left" width="250">
-          <h3>🧑‍🏫 <b>Ensino</b></h3>
-          <ul>
-            <li>Professor universitário nas áreas de TI, Matemática, Arquitetura Web, Banco de Dados, Estatística, Probabilidade e Finanças</li>
-             <li></li>
-            <li></li>
-          </ul>
-        </td>
-      </tr>
-    </table>
-    <hr width="60%">
-    <h3>🌟 <b>Projetos inovadores em tecnologia, educação e ciência de dados</b> 🌟</h3>
-</div>
+
 
 
 </div>
