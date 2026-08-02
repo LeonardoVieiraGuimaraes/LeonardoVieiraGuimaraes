@@ -2,7 +2,7 @@
 
 # Olá, eu sou Leonardo Vieira Guimarães 👋
 
-### Desenvolvedor Full Stack · Product Owner · Professor de TI & Pesquisador
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=4285F4&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Product+Owner;Professor+de+TI+%26+Pesquisador" alt="Typing SVG" />
 
 Aberto a **oportunidades CLT/PJ**, **projetos freelance** e **colaborações acadêmicas**
 
@@ -10,6 +10,8 @@ Aberto a **oportunidades CLT/PJ**, **projetos freelance** e **colaborações aca
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-vieira-guimaraes/)
 [![E-mail](https://img.shields.io/badge/E--mail-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardovieiraxy@hotmail.com)
 [![Lattes](https://img.shields.io/badge/Lattes-Currículo-1E3A8A?style=for-the-badge&logo=googlescholar&logoColor=white)](http://lattes.cnpq.br/3600922455238720)
+
+![Visitantes do perfil](https://komarev.com/ghpvc/?username=LeonardoVieiraGuimaraes&color=4285F4&style=flat-square&label=Visualiza%C3%A7%C3%B5es+de+perfil)
 
 </div>
 
@@ -64,6 +66,13 @@ Sou também professor universitário de TI e pesquisador: mestre pela **UNIMONTE
 
 ---
 
+## 🚀 Projeto em destaque
+
+**[leo_portifolio](https://github.com/LeonardoVieiraGuimaraes/leo_portifolio)** — Portfólio pessoal em React + TypeScript, com tema dark/light, deploy automatizado (Docker + Nginx + Cloudflare Tunnel) e publicação também via GitHub Pages.
+🔗 [leoproti.com.br](https://leoproti.com.br)
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -72,6 +81,28 @@ Sou também professor universitário de TI e pesquisador: mestre pela **UNIMONTE
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoVieiraGuimaraes&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 <img src="https://streak-stats.demolab.com/?user=LeonardoVieiraGuimaraes&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LeonardoVieiraGuimaraes&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%" />
+
+</div>
+
+---
+
+## 🏆 Troféus
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=LeonardoVieiraGuimaraes&theme=tokyonight&no-frame=true&row=1&column=6" alt="Troféus GitHub" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/LeonardoVieiraGuimaraes/LeonardoVieiraGuimaraes/output/github-snake.svg" alt="Snake animation" />
 
 </div>
 
