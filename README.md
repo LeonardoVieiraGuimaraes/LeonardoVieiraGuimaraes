@@ -53,7 +53,7 @@ Possuo sólida formação técnica e científica — **Mestre em Ciência da Com
 
 ## 🚀 Projeto em Destaque
 
-### 🌐 [leo_portifolio](https://github.com/LeonardoVieiraGuimaraes/leo_portifolio) — Portfólio Web & Infraestrutura Automática
+### 🌐 [leo-portifolio](https://github.com/LeonardoVieiraGuimaraes/leo-portifolio) — Portfólio Web & Infraestrutura Automática
 > **Stack**: React · TypeScript · Docker · Nginx · Cloudflare Tunnel · GitHub Actions
 
 Aplicação web moderna desenvolvida para apresentar minha trajetória e cases. Conta com esteira automatizada de CI/CD, deploy via contêineres Docker com exposição segura via Cloudflare Tunnel e publicação espelhada no GitHub Pages.
@@ -65,8 +65,8 @@ Aplicação web moderna desenvolvida para apresentar minha trajetória e cases. 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=LeonardoVieiraGuimaraes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoVieiraGuimaraes&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img height="165" src="https://github-readme-stats-phi-five.vercel.app/api?username=LeonardoVieiraGuimaraes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats-phi-five.vercel.app/api/top-langs/?username=LeonardoVieiraGuimaraes&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 <img src="https://streak-stats.demolab.com/?user=LeonardoVieiraGuimaraes&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
@@ -80,7 +80,7 @@ Aplicação web moderna desenvolvida para apresentar minha trajetória e cases. 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=LeonardoVieiraGuimaraes&theme=tokyonight&no-frame=true&row=1&column=6" alt="Troféus GitHub" />
+<img src="https://github-profile-trophies.vercel.app/?username=LeonardoVieiraGuimaraes&theme=tokyonight&no-frame=true&row=1&column=6" alt="Troféus GitHub" />
 
 </div>
 
