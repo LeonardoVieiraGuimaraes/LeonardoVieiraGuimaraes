@@ -87,26 +87,20 @@ Possuo sólida formação técnica e científica — **Mestre em Ciência da Com
 
 <div align="center">
 
+<!-- Linha 1: GitHub Stats + Top Languages -->
 <img height="180" src="https://github-readme-stats-phi-five.vercel.app/api?username=LeonardoVieiraGuimaraes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="180" src="https://streak-stats.demolab.com/?user=LeonardoVieiraGuimaraes&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<br/><br/>
-
 <img height="180" src="https://github-readme-stats-phi-five.vercel.app/api/top-langs/?username=LeonardoVieiraGuimaraes&layout=compact&theme=tokyonight&hide_border=true&hide=Jupyter%20Notebook" alt="Top Languages" />
 
 <br/><br/>
 
+<!-- Linha 2: Streak Stats + Troféus -->
+<img height="180" src="https://streak-stats.demolab.com/?user=LeonardoVieiraGuimaraes&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img height="180" src="https://github-profile-trophies.vercel.app/?username=LeonardoVieiraGuimaraes&theme=tokyonight&no-frame=true&row=2&column=3" alt="Troféus GitHub" />
+
+<br/><br/>
+
+<!-- Gráfico de Atividade -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeonardoVieiraGuimaraes&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%" />
-
-</div>
-
----
-
-## 🏆 Conquistas no GitHub
-
-<div align="center">
-
-<img src="https://github-profile-trophies.vercel.app/?username=LeonardoVieiraGuimaraes&theme=tokyonight&no-frame=true&row=1&column=6" alt="Troféus GitHub" />
 
 </div>
 
