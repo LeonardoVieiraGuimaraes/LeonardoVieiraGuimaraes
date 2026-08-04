@@ -123,8 +123,12 @@ Possuo sólida formação técnica e científica — **Mestre em Ciência da Com
 > A bagagem acadêmica em computação avançada é um diferencial que amplia minha capacidade de solucionar problemas complexos de software, otimizar performance e aplicar estruturas de dados de alto nível.
 
 - **Doutorado em Modelagem Matemática e Computacional** — CEFET/MG *(em andamento)*
-- **Mestrado em Ciência da Computação** — UNIMONTES
-- **Docência em TI** — Lecionei disciplinas de Engenharia de Software e Algoritmos
+- **Mestrado em Modelagem Computacional e Sistemas** — UNIMONTES
+- **Bacharelado em Engenharia de Computação** — FEMC
+- **Especialização em Matemática e Estatística** — UFLA (Universidade Federal de Lavras)
+- **Licenciatura em Matemática** — UNIMONTES
+- **Especialização em Educação Matemática** — FINOM
+- **Docência no Ensino Superior & TI** — Newton Paiva, UNIASSELVI e FADENORTE (Arquitetura Web, Banco de Dados e Engenharia de Software)
 
 [![ORCID](https://img.shields.io/badge/ORCID-Produção%20Científica-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-3118-4664)
 [![Lattes](https://img.shields.io/badge/Lattes-Currículo%20Lattes-1E3A8A?style=flat-square&logo=googlescholar&logoColor=white)](http://lattes.cnpq.br/3600922455238720)
