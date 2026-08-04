@@ -83,14 +83,18 @@ Possuo sólida formação técnica e científica — **Mestre em Ciência da Com
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estatísticas do GitHub
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-phi-five.vercel.app/api?username=LeonardoVieiraGuimaraes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats-phi-five.vercel.app/api/top-langs/?username=LeonardoVieiraGuimaraes&layout=compact&theme=tokyonight&hide_border=true&hide=Jupyter%20Notebook,HTML,TeX" alt="Top Languages" />
+<img height="180" src="https://github-readme-stats-phi-five.vercel.app/api?username=LeonardoVieiraGuimaraes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="180" src="https://streak-stats.demolab.com/?user=LeonardoVieiraGuimaraes&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<img src="https://streak-stats.demolab.com/?user=LeonardoVieiraGuimaraes&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<br/><br/>
+
+<img height="180" src="https://github-readme-stats-phi-five.vercel.app/api/top-langs/?username=LeonardoVieiraGuimaraes&layout=compact&theme=tokyonight&hide_border=true&hide=Jupyter%20Notebook" alt="Top Languages" />
+
+<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeonardoVieiraGuimaraes&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%" />
 
