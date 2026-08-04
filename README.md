@@ -2,9 +2,9 @@
 
 # Olá, eu sou Leonardo Vieira Guimarães 👋
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=4285F4&center=true&vCenter=true&width=600&lines=Senior+Full+Stack+Engineer;Software+Architect;Product+Owner+%26+Tech+Lead" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=4285F4&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Engenheiro+de+Software;Product+Owner+%26+Tech+Lead" alt="Typing SVG" />
 
-Aberto a **oportunidades CLT/PJ** (Sênior / Specialist / Tech Lead), **Projetos Freelance** e **Consultoria**
+Aberto a **oportunidades CLT/PJ**, **Projetos Freelance** e **Consultoria**
 
 [![Portfólio](https://img.shields.io/badge/Portfólio-leoproti.com.br-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://leoproti.com.br)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-vieira-guimaraes/)
@@ -18,7 +18,7 @@ Aberto a **oportunidades CLT/PJ** (Sênior / Specialist / Tech Lead), **Projetos
 
 ## 💻 Sobre mim
 
-Desenvolvedor **Full Stack Sênior** e **Engenheiro de Software** com **mais de 8 anos de experiência** projetando e construindo aplicações web corporativas de alta disponibilidade, APIs RESTful, microsserviços e arquitetura de banco de dados.
+Desenvolvedor **Full Stack** e **Engenheiro de Software** com **mais de 8 anos de experiência** projetando e construindo aplicações web corporativas de alta disponibilidade, APIs RESTful, microsserviços e arquitetura de banco de dados.
 
 Atuo no **Instituto Mineiro de Agropecuária (IMA)** no desenvolvimento de sistemas corporativos estratégicos, governança de arquitetura de software e como **Product Owner (PO)** do sistema Sidagro.
 
