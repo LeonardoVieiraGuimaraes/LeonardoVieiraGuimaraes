@@ -51,13 +51,39 @@ Possuo sólida formação técnica e científica — **Mestre em Ciência da Com
 
 ---
 
-## 🚀 Projeto em Destaque
+## 🚀 Projetos em Destaque
+
+> Uma seleção dos principais projetos corporativos, microsserviços, produtos publicados e sistemas web. Acesse meu [Portfólio Completo](https://leoproti.com.br) para mais cases.
+
+### 🏢 [Sistema Sidagro](https://www.sidagro.ima.mg.gov.br/sidagro/login.seam) — Defesa Agropecuária de MG
+> **Stack**: Java EE · Oracle · PO (Product Owner) · Regras de Negócio Corporativas
+- Portal corporativo oficial do Instituto Mineiro de Agropecuária (IMA). Atuação como **Product Owner (PO)**, liderando requisitos de negócio complexos e gestão de suporte de alta disponibilidade.
+
+### 💳 [Plataforma DAE / PIX v2](https://daev2.leoproti.com.br/) — Arrecadação Corporativa
+> **Stack**: React · TypeScript · PostgreSQL · Docker · REST API
+- Evolução do sistema de arrecadação do IMA com integração de pagamentos instantâneos via PIX e DAE em arquitetura distribuída e contêineres Docker.
+
+### 🔑 [IMA Auth](https://ima-auth.leoproti.com.br/) — Microsserviço de Autenticação Única (SSO)
+> **Stack**: Node.js · OAuth2 / JWT · Docker · Express · Microsserviços
+- Serviço centralizado de Single Sign-On (SSO) baseado em OAuth2/JWT para integração entre sistemas legados e novos microsserviços do ecossistema do IMA.
+
+### 📄 [PDF Server](https://pdfserver.leoproti.com.br/) — Microsserviço de Documentos Fiscais
+> **Stack**: Node.js · Docker · API REST · Geração & Assinatura de PDFs
+- Microsserviço dedicado para emissão programática, assinatura digital e entrega de documentos fiscais oficiais via API REST.
+
+### 📱 [A&G Enfermagem](https://aeg.leoproti.com.br/) — App Mobile Publicado na Google Play
+> **Stack**: React Native · Expo · Android · SQLite Offline
+- Aplicativo de suporte para enfermagem prisional com consultas de protocolos, CID-10/11, medicamentos e calculadoras clínicas offline.
+- 📱 [Ver na Google Play Store](https://play.google.com/store/apps/details?id=com.leonardovieiraxy.informacaoEnfermagemreactNative)
+
+### 🏥 [Sistema SAE & Recepção Hospitalar](https://sae.leoproti.com.br/) — Gestão em Saúde
+> **Stack**: Python · Django · PostgreSQL · Docker
+- Sistemas web assistenciais para triagem, cadastro de pacientes, atendimento obstétrico e fluxo de cirurgia segura.
 
 ### 🌐 [leo-portifolio](https://github.com/LeonardoVieiraGuimaraes/leo-portifolio) — Portfólio Web & Infraestrutura Automática
-> **Stack**: React · TypeScript · Docker · Nginx · Cloudflare Tunnel · GitHub Actions
-
-Aplicação web moderna desenvolvida para apresentar minha trajetória e cases. Conta com esteira automatizada de CI/CD, deploy via contêineres Docker com exposição segura via Cloudflare Tunnel e publicação espelhada no GitHub Pages.
-- 🔗 **Acesse online**: [leoproti.com.br](https://leoproti.com.br)
+> **Stack**: React · TypeScript · TailwindCSS · Docker · Nginx · Cloudflare Tunnel · GitHub Actions
+- Website pessoal responsivo e moderno com deploy automatizado via Docker e Cloudflare Tunnel.
+- 🔗 **Online**: [leoproti.com.br](https://leoproti.com.br)
 
 ---
 
