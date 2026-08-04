@@ -93,7 +93,7 @@ Possuo sólida formação técnica e científica — **Mestre em Ciência da Com
       <img width="100%" src="https://github-readme-stats-phi-five.vercel.app/api?username=LeonardoVieiraGuimaraes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
     </td>
     <td align="center" width="50%">
-      <img width="100%" src="https://github-readme-stats-phi-five.vercel.app/api/top-langs/?username=LeonardoVieiraGuimaraes&layout=compact&theme=tokyonight&hide_border=true&hide=Jupyter%20Notebook" alt="Top Languages" />
+      <img width="100%" src="https://github-readme-stats-phi-five.vercel.app/api/top-langs/?username=LeonardoVieiraGuimaraes&layout=compact&theme=tokyonight&hide_border=true&hide=Jupyter%20Notebook,HTML,CSS,TeX&langs_count=8" alt="Top Languages" />
     </td>
   </tr>
   <tr>
