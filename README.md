@@ -22,7 +22,9 @@ Desenvolvedor **Full Stack** e **Engenheiro de Software** com **mais de 8 anos d
 
 Atuo no **Instituto Mineiro de Agropecuária (IMA)** no desenvolvimento de sistemas corporativos estratégicos, governança de arquitetura de software e como **Product Owner (PO)** do sistema Sidagro.
 
-Possuo sólida formação técnica e científica — **Mestre em Ciência da Computação** (UNIMONTES) e **Doutorando em Modelagem Matemática e Computacional** (CEFET/MG) — o que reforça minha capacidade analítica na resolução de problemas complexos de software, otimização de algoritmos e alta performance.
+Possuo sólida formação técnica e científica — **Mestre em Modelagem Computacional e Sistemas** (UNIMONTES) e **Doutorando em Modelagem Matemática e Computacional** (CEFET/MG) — o que reforça minha capacidade analítica na resolução de problemas complexos de software, otimização de algoritmos e alta performance.
+
+Também atuo como **professor e palestrante convidado**, com aulas em programa de pós-graduação *stricto sensu* (UNIFAL-MG) e artigo publicado em periódico internacional indexado sobre desenvolvimento e validação de aplicativos móveis em saúde.
 
 📍 **Belo Horizonte, MG · Brasil** — Atuação **Remota** / **Híbrida**  
 🗣️ **Idiomas**: 🇧🇷 Português *(Nativo)* · 🇺🇸 Inglês *(Leitura e Documentação Técnica)*
@@ -80,6 +82,8 @@ Possuo sólida formação técnica e científica — **Mestre em Ciência da Com
 ### 📱 [A&G Enfermagem](https://aeg.leoproti.com.br/) — App Mobile Publicado na Google Play
 > **Stack**: React Native · Expo · Android · SQLite Offline
 - Aplicativo de suporte para enfermagem prisional com consultas de protocolos, CID-10/11, medicamentos e calculadoras clínicas offline.
+- 🔬 **Produto de pesquisa validado cientificamente**: IVC 0,962 e Alfa de Cronbach 0,969, com 23 juízes especialistas e 51 enfermeiros — resultados publicados em periódico internacional ([DOI](https://doi.org/10.17533/udea.iee.v44n1e09)).
+- 📜 Obra com **registro de autoria** (SHA-256 / ICP-Brasil, jul/2024).
 - 📱 [Ver na Google Play Store](https://play.google.com/store/apps/details?id=com.leonardovieiraxy.informacaoEnfermagemreactNative)
 
 ### 🏥 [Sistema SAE & Recepção Hospitalar](https://sae.leoproti.com.br/) — Gestão em Saúde
@@ -134,20 +138,50 @@ Possuo sólida formação técnica e científica — **Mestre em Ciência da Com
 
 ---
 
+## 📄 Produção Científica
+
+### Artigo em periódico internacional
+
+> **"Autonomy & Management in Prison Nursing". Development and validation of a mobile application**  
+> Diniz Alves L, **Vieira Guimarães L**, Almeida da Silva L, Cruz Robazzi MLC, Okino Savada N, Souza Terra F, Marques dos Santos SV.  
+> *Investigación y Educación en Enfermería* (Universidad de Antioquia), 2026; **44(1):e09**.
+
+[![DOI](https://img.shields.io/badge/DOI-10.17533%2Fudea.iee.v44n1e09-0A7BBB?style=flat-square)](https://doi.org/10.17533/udea.iee.v44n1e09)
+[![PubMed](https://img.shields.io/badge/PubMed-41980250-326599?style=flat-square)](https://pubmed.ncbi.nlm.nih.gov/41980250/)
+[![Texto completo](https://img.shields.io/badge/Texto%20completo-PMC13078840-2E8B57?style=flat-square)](https://europepmc.org/articles/PMC13078840)
+
+Atuação como **desenvolvedor responsável pela tecnologia** do estudo: construção do aplicativo móvel segundo o método de *Design Instrucional Contextualizado* e apoio às etapas de validação de conteúdo e semântica.
+
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0000--3118--4664-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-3118-4664)
+[![Lattes](https://img.shields.io/badge/Lattes-Currículo-1E3A8A?style=flat-square&logo=googlescholar&logoColor=white)](http://lattes.cnpq.br/3600922455238720)
+
+---
+
+## 🎤 Docência, Palestras & Comunidade
+
+- 🎓 **Aula em pós-graduação *stricto sensu*** — UNIFAL-MG, PPG em Enfermagem (Mestrado e Doutorado), disciplina *Tecnologia em Saúde e Educação*: **"Desenvolvimento de aplicativos No-Code: da ideia à implementação"** (nov/2025).
+- 🧠 **Palestra "Redes Neurais Artificiais"** — UNIMONTES, com material autoral em LaTeX/Beamer e notebooks de demonstração.
+- 🧪 **Redes Neurais Convolucionais** — aula técnica sobre visão computacional e classificação de imagens.
+- 👨‍🏫 **Orientação e avaliação de projetos de graduação** — Newton Paiva e UNIASSELVI, com trabalhos apresentados no **CIEPE** (IoT com Arduino, irrigação inteligente, mobilidade urbana sustentável).
+- 🎯 **Ensino superior e técnico** — Newton Paiva, UNIASSELVI, FADENORTE e IFNMG (PRONATEC/Rede e-Tec): Arquitetura Web, Banco de Dados, Engenharia de Software e Projeto Integrador.
+
+---
+
 ## 🎓 Formação Acadêmica & Base Científica
 
 > A bagagem acadêmica em computação avançada é um diferencial que amplia minha capacidade de solucionar problemas complexos de software, otimizar performance e aplicar estruturas de dados de alto nível.
 
-- **Doutorado em Modelagem Matemática e Computacional** — CEFET/MG *(em andamento)*
-- **Mestrado em Modelagem Computacional e Sistemas** — UNIMONTES
-- **Bacharelado em Engenharia de Computação** — FEMC
-- **Especialização em Matemática e Estatística** — UFLA
-- **Licenciatura em Matemática** — UNIMONTES
-- **Especialização em Educação Matemática** — FINOM
-- **Docência no Ensino Superior & TI** — Newton Paiva, UNIASSELVI e FADENORTE (Arquitetura Web, Banco de Dados e Engenharia de Software)
+- **Doutorado em Modelagem Matemática e Computacional** — CEFET/MG *(em andamento, desde 2024)*
+- **Mestrado em Modelagem Computacional e Sistemas** — UNIMONTES *(2016–2019)*
+  - Dissertação: *Monitoramento no processo de desidratação de uvas baseado em imagens digitais e sistemas inteligentes*
+- **Bacharelado em Engenharia da Computação** — FACIT *(2010–2014)*
+- **Especialização em Matemática e Estatística** — UFLA *(2008–2009)*
+- **Licenciatura em Matemática** — UNIMONTES *(2004–2007)*
+- **Docência no Ensino Superior & TI** — Newton Paiva, UNIASSELVI, FADENORTE e IFNMG (Arquitetura Web, Banco de Dados e Engenharia de Software)
 
-[![ORCID](https://img.shields.io/badge/ORCID-Produção%20Científica-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-3118-4664)
-[![Lattes](https://img.shields.io/badge/Lattes-Currículo%20Lattes-1E3A8A?style=flat-square&logo=googlescholar&logoColor=white)](http://lattes.cnpq.br/3600922455238720)
+### 📜 Capacitações complementares (ENAP e outras)
+
+`Inteligência Artificial Generativa` · `LGPD e Proteção de Dados no Setor Público` · `Segurança da Informação & Compliance` · `Gestão de Riscos Corporativos` · `Linguagem Simples no Setor Público` · `Operações com ARP (Drones) em Fiscalização` · `SEI — Sistema Eletrônico de Informações`
 
 ---
 
@@ -155,5 +189,6 @@ Possuo sólida formação técnica e científica — **Mestre em Ciência da Com
 
 [![Portfólio](https://img.shields.io/badge/Portfólio-leoproti.com.br-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://leoproti.com.br)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Leonardo%20Vieira-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-vieira-guimaraes/)
+[![YouTube](https://img.shields.io/badge/YouTube-@Leonardovieiraxy-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@Leonardovieiraxy)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Conversar-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5538992391698?text=Olá%2C%20vi%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20conversar.)
 [![E-mail](https://img.shields.io/badge/E--mail-leonardovieiraxy%40hotmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:leonardovieiraxy@hotmail.com)
