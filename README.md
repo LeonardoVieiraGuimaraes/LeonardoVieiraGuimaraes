@@ -24,7 +24,17 @@ Atuo no **Instituto Mineiro de Agropecuária (IMA)** no desenvolvimento de siste
 
 Possuo sólida formação técnica e científica — **Mestre em Ciência da Computação** (UNIMONTES) e **Doutorando em Modelagem Matemática e Computacional** (CEFET/MG) — o que reforça minha capacidade analítica na resolução de problemas complexos de software, otimização de algoritmos e alta performance.
 
-📍 **Belo Horizonte, MG · Brasil** — Atuação **Remota** / **Híbrida**
+📍 **Belo Horizonte, MG · Brasil** — Atuação **Remota** / **Híbrida**  
+🗣️ **Idiomas**: 🇧🇷 Português *(Nativo)* · 🇺🇸 Inglês *(Leitura e Documentação Técnica)*
+
+---
+
+## 🔥 Foco Atual
+
+- 🔭 **Sistemas Corporativos**: Desenvolvimento e modernização de soluções backend e microsserviços no **IMA**.
+- 🔬 **Inteligência Computacional**: Pesquisa aplicada em modelos neuro-fuzzy e mineração de dados no **CEFET/MG**.
+- ⚡ **DevOps & Arquitetura**: Aperfeiçoamento de esteiras CI/CD, containerização com Docker e Clean Architecture.
+- 💬 **Networking & Consultoria**: Disponível para trocas de conhecimento em Arquitetura Web, Python, Java e DevOps.
 
 ---
 
