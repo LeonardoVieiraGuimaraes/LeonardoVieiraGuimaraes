@@ -123,7 +123,7 @@ Possuo sólida formação técnica e científica — **Mestre em Ciência da Com
 - **Doutorado em Modelagem Matemática e Computacional** — CEFET/MG *(em andamento)*
 - **Mestrado em Modelagem Computacional e Sistemas** — UNIMONTES
 - **Bacharelado em Engenharia de Computação** — FEMC
-- **Especialização em Matemática e Estatística** — UFLA (Universidade Federal de Lavras)
+- **Especialização em Matemática e Estatística** — UFLA
 - **Licenciatura em Matemática** — UNIMONTES
 - **Especialização em Educação Matemática** — FINOM
 - **Docência no Ensino Superior & TI** — Newton Paiva, UNIASSELVI e FADENORTE (Arquitetura Web, Banco de Dados e Engenharia de Software)
