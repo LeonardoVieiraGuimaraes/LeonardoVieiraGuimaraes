@@ -67,10 +67,6 @@ Possuo sólida formação técnica e científica — **Mestre em Ciência da Com
 > **Stack**: Node.js · OAuth2 / JWT · Docker · Express · Microsserviços
 - Serviço centralizado de Single Sign-On (SSO) baseado em OAuth2/JWT para integração entre sistemas legados e novos microsserviços do ecossistema do IMA.
 
-### 📄 [PDF Server](https://pdfserver.leoproti.com.br/) — Microsserviço de Documentos Fiscais
-> **Stack**: Node.js · Docker · API REST · Geração & Assinatura de PDFs
-- Microsserviço dedicado para emissão programática, assinatura digital e entrega de documentos fiscais oficiais via API REST.
-
 ### 📱 [A&G Enfermagem](https://aeg.leoproti.com.br/) — App Mobile Publicado na Google Play
 > **Stack**: React Native · Expo · Android · SQLite Offline
 - Aplicativo de suporte para enfermagem prisional com consultas de protocolos, CID-10/11, medicamentos e calculadoras clínicas offline.
