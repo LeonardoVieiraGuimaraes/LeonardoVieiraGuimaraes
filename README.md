@@ -192,5 +192,5 @@ Atuação como **desenvolvedor responsável pela tecnologia** do estudo: constru
 [![Portfólio](https://img.shields.io/badge/Portfólio-leoproti.com.br-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://leoproti.com.br)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Leonardo%20Vieira-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-vieira-guimaraes/)
 [![YouTube](https://img.shields.io/badge/YouTube-@Leonardovieiraxy-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@Leonardovieiraxy)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Conversar-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5538992391698?text=Olá%2C%20vi%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20conversar.)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Conversar-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5538999352408?text=Olá%2C%20vi%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20conversar.)
 [![E-mail](https://img.shields.io/badge/E--mail-leonardovieiraxy%40hotmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:leonardovieiraxy@hotmail.com)
