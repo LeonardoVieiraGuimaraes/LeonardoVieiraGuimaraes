@@ -18,9 +18,9 @@ Aberto a **novos desafios**, **projetos inovadores** e **colaborações**
 
 ## 💻 Sobre mim
 
-Desenvolvedor **Full Stack** e **Engenheiro de Software** com **mais de 8 anos de experiência** projetando e construindo aplicações web corporativas de alta disponibilidade, APIs RESTful, microsserviços e arquitetura de banco de dados.
+Desenvolvedor **Full Stack** e **Engenheiro da Computação**, construindo sistemas web corporativos de alta disponibilidade, APIs RESTful e microsserviços em projetos freelance/PJ **desde 2014**.
 
-Atuo no **Instituto Mineiro de Agropecuária (IMA)** no desenvolvimento de sistemas corporativos estratégicos, governança de arquitetura de software e como **Product Owner (PO)** do sistema Sidagro.
+Atuo no **Instituto Mineiro de Agropecuária (IMA)** há **mais de 20 anos**, hoje como **Desenvolvedor Backend (GLS/TI)** e **Product Owner** do sistema Sidagro — trajetória que passou pelo atendimento regional de defesa agropecuária e pelo Núcleo de Inovação e Modernização (NIM). Conhecer o negócio por dentro é o que me permite traduzir regra complexa em software que funciona.
 
 Possuo sólida formação técnica e científica — **Mestre em Modelagem Computacional e Sistemas** (UNIMONTES) e **Doutorando em Modelagem Matemática e Computacional** (CEFET/MG) — o que reforça minha capacidade analítica na resolução de problemas complexos de software, otimização de algoritmos e alta performance.
 
@@ -34,7 +34,7 @@ Também atuo como **professor e palestrante convidado**, com aulas em programa d
 ## 🔥 Foco Atual
 
 - 🔭 **Sistemas Corporativos**: Desenvolvimento e modernização de soluções backend e microsserviços no **IMA**.
-- 🔬 **Inteligência Computacional**: Pesquisa aplicada em modelos neuro-fuzzy e mineração de dados no **CEFET/MG**.
+- 🔬 **Doutorado (CEFET/MG)**: **Detecção de fraudes em Guias de Trânsito Animal (GTA)** com algoritmos neuro-fuzzy evolutivos, aprendizado incremental e modelos interpretáveis.
 - ⚡ **DevOps & Arquitetura**: Aperfeiçoamento de esteiras CI/CD, containerização com Docker e Clean Architecture.
 - 💬 **Networking & Consultoria**: Disponível para trocas de conhecimento em Arquitetura Web, Python, Java e DevOps.
 
@@ -164,6 +164,8 @@ Atuação como **desenvolvedor responsável pela tecnologia** do estudo: constru
 - 🧪 **Redes Neurais Convolucionais** — aula técnica sobre visão computacional e classificação de imagens.
 - 👨‍🏫 **Orientação e avaliação de projetos de graduação** — Newton Paiva e UNIASSELVI, com trabalhos apresentados no **CIEPE** (IoT com Arduino, irrigação inteligente, mobilidade urbana sustentável).
 - 🎯 **Ensino superior e técnico** — Newton Paiva, UNIASSELVI, FADENORTE e IFNMG (PRONATEC/Rede e-Tec): Arquitetura Web, Banco de Dados, Engenharia de Software e Projeto Integrador.
+- 📹 **86 videoaulas** publicadas em [Estatística e Probabilidade](https://www.youtube.com/playlist?list=PLbLoehbSIAYUFCykmhDHcOhAIv7er7rou), [Matemática Financeira](https://www.youtube.com/playlist?list=PLbLoehbSIAYXHvrPFdzPvz2StCvwDVNym) e [Projeto Integrador](https://www.youtube.com/playlist?list=PLbLoehbSIAYVKOSuhf2p27tRaFlXAFG1T).
+- ✍️ **Autoria de conteúdo didático** — disciplina *Backend II com Banco de Dados* (UNIASSELVI/Vitru).
 
 ---
 
@@ -174,7 +176,7 @@ Atuação como **desenvolvedor responsável pela tecnologia** do estudo: constru
 - **Doutorado em Modelagem Matemática e Computacional** — CEFET/MG *(em andamento, desde 2024)*
 - **Mestrado em Modelagem Computacional e Sistemas** — UNIMONTES *(2016–2019)*
   - Dissertação: *Monitoramento no processo de desidratação de uvas baseado em imagens digitais e sistemas inteligentes*
-- **Bacharelado em Engenharia da Computação** — FACIT *(2010–2014)*
+- **Bacharelado em Engenharia da Computação** — FACIT / Fundação Educacional Montes Claros (FEMC) *(2010–2014)*
 - **Especialização em Matemática e Estatística** — UFLA *(2008–2009)*
 - **Licenciatura em Matemática** — UNIMONTES *(2004–2007)*
 - **Docência no Ensino Superior & TI** — Newton Paiva, UNIASSELVI, FADENORTE e IFNMG (Arquitetura Web, Banco de Dados e Engenharia de Software)
