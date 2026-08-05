@@ -173,7 +173,9 @@ Atuação como **desenvolvedor responsável pela tecnologia** do estudo: constru
 
 > A bagagem acadêmica em computação avançada é um diferencial que amplia minha capacidade de solucionar problemas complexos de software, otimizar performance e aplicar estruturas de dados de alto nível.
 
-- **Doutorado em Modelagem Matemática e Computacional** — CEFET/MG *(em andamento, desde 2024)*
+- **Doutorado em Modelagem Matemática e Computacional** — CEFET/MG *(em andamento, desde 2025)*
+  - Orientador: Alisson Marques da Silva · Linha de pesquisa em sistemas inteligentes
+  - Disciplinas cursadas como aluno especial na **UFMG** (Ciência da Computação, remoto)
 - **Mestrado em Modelagem Computacional e Sistemas** — UNIMONTES *(2016–2019)*
   - Dissertação: *Monitoramento no processo de desidratação de uvas baseado em imagens digitais e sistemas inteligentes*
 - **Bacharelado em Engenharia da Computação** — FACIT / Fundação Educacional Montes Claros (FEMC) *(2010–2014)*
