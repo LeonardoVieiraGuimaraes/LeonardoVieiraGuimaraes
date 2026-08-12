@@ -164,7 +164,7 @@ Atuação como **desenvolvedor responsável pela tecnologia** do estudo: constru
 - 🧪 **Redes Neurais Convolucionais** — aula técnica sobre visão computacional e classificação de imagens.
 - 👨‍🏫 **Orientação e avaliação de projetos de graduação** — Newton Paiva e UNIASSELVI, com trabalhos apresentados no CIEPE.
 - 🎯 **Ensino superior e técnico** — Newton Paiva, UNIASSELVI, FADENORTE e IFNMG (PRONATEC/Rede e-Tec): Arquitetura Web, Banco de Dados, Engenharia de Software e Projeto Integrador.
-- 📹 **86 videoaulas** publicadas em [Estatística e Probabilidade](https://www.youtube.com/playlist?list=PLbLoehbSIAYUFCykmhDHcOhAIv7er7rou), [Matemática Financeira](https://www.youtube.com/playlist?list=PLbLoehbSIAYWc6P0R4jJYcL0uGxN6m5J8), e [conteúdo solicitado](https://www.youtube.com/watch?v=dSSlUShbAu0&list=PLbLoehbSIAYWV50N_Y2OzrlRRZy0bjGRY).
+- 📹 **86 videoaulas** publicadas em [Estatística e Probabilidade](https://www.youtube.com/playlist?list=PLbLoehbSIAYUFCykmhDHcOhAIv7er7rou), [Matemática Financeira](https://www.youtube.com/playlist?list=PLbLoehbSIAYWc6P0R4jJYcL0uGxN6m5J8), e [Visão Computacional](https://www.youtube.com/watch?v=dSSlUShbAu0&list=PLbLoehbSIAYWV50N_Y2OzrlRRZy0bjGRY).
 - ✍️ **Autoria de conteúdo didático** — disciplina *Backend II com Banco de Dados* (UNIASSELVI/Vitru).
 
 ---
