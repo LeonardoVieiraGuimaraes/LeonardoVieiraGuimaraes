@@ -2,7 +2,7 @@
 
 # Olá, eu sou Leonardo Vieira Guimarães 👋
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=4285F4&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Engenheiro+de+Software;Product+Owner+%26+Tech+Lead" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=4285F4&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Engenheiro+de+Software;Product+Owner+%26+Tech+Lead;Arquitetura+Web;DevOps" alt="Typing SVG" />
 
 Aberto a **novos desafios**, **projetos inovadores** e **colaborações**
 
@@ -20,11 +20,11 @@ Aberto a **novos desafios**, **projetos inovadores** e **colaborações**
 
 Desenvolvedor **Full Stack** e **Engenheiro da Computação**, construindo sistemas web corporativos de alta disponibilidade, APIs RESTful e microsserviços em projetos freelance/PJ **desde 2014**.
 
-Atuo no **Instituto Mineiro de Agropecuária (IMA)** há **mais de 20 anos**, hoje como **Desenvolvedor Backend (GLS/TI)** e **Product Owner** do sistema Sidagro — trajetória que passou pelo atendimento regional de defesa agropecuária e pelo Núcleo de Inovação e Modernização (NIM). Conhecer o negócio por dentro é o que me permite traduzir regra complexa em software que funciona.
+Atuo no **Instituto Mineiro de Agropecuária (IMA)** há **mais de 20 anos**, hoje como **Desenvolvedor Backend (GLS/TI)** e **Product Owner** do sistema Sidagro — trajetória que passou pelo atendimento, suporte técnico e evolução de sistemas corporativos.
 
-Possuo sólida formação técnica e científica — **Mestre em Modelagem Computacional e Sistemas** (UNIMONTES) e **Doutorando em Modelagem Matemática e Computacional** (CEFET/MG) — o que reforça minha capacidade analítica na resolução de problemas complexos de software, otimização de algoritmos e alta performance.
+Possuo sólida formação técnica e científica — **Mestre em Modelagem Computacional e Sistemas** (UNIMONTES) e **Doutorando em Modelagem Matemática e Computacional** (CEFET/MG) — o que reforça minha atuação em soluções baseadas em dados, automação e inteligência computacional.
 
-Também atuo como **professor e palestrante convidado**, com aulas em programa de pós-graduação *stricto sensu* (UNIFAL-MG) e artigo publicado em periódico internacional indexado sobre desenvolvimento e validação de aplicativos móveis em saúde.
+Também atuo como **professor e palestrante convidado**, com aulas em programa de pós-graduação *stricto sensu* (UNIFAL-MG) e artigo publicado em periódico internacional indexado sobre desenvolvimento e validação de aplicativo móvel.
 
 📍 **Belo Horizonte, MG · Brasil** — Atuação **Remota** / **Híbrida**  
 🗣️ **Idiomas**: 🇧🇷 Português *(Nativo)* · 🇺🇸 Inglês *(Leitura e Documentação Técnica)*
@@ -107,7 +107,7 @@ Também atuo como **professor e palestrante convidado**, com aulas em programa d
       <img width="100%" src="https://github-readme-stats-phi-five.vercel.app/api?username=LeonardoVieiraGuimaraes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
     </td>
     <td align="center" width="50%">
-      <img width="100%" src="https://github-readme-stats-phi-five.vercel.app/api/top-langs/?username=LeonardoVieiraGuimaraes&layout=compact&theme=tokyonight&hide_border=true&hide=Jupyter%20Notebook,HTML,CSS,TeX,MATLAB&langs_count=8" alt="Top Languages" />
+      <img width="100%" src="https://github-readme-stats-phi-five.vercel.app/api/top-langs/?username=LeonardoVieiraGuimaraes&layout=compact&theme=tokyonight&hide_border=true&hide=Jupyter%20Notebook,HTML" alt="Top Languages" />
     </td>
   </tr>
   <tr>
@@ -150,7 +150,7 @@ Também atuo como **professor e palestrante convidado**, com aulas em programa d
 [![PubMed](https://img.shields.io/badge/PubMed-41980250-326599?style=flat-square)](https://pubmed.ncbi.nlm.nih.gov/41980250/)
 [![Texto completo](https://img.shields.io/badge/Texto%20completo-PMC13078840-2E8B57?style=flat-square)](https://europepmc.org/articles/PMC13078840)
 
-Atuação como **desenvolvedor responsável pela tecnologia** do estudo: construção do aplicativo móvel segundo o método de *Design Instrucional Contextualizado* e apoio às etapas de validação de conteúdo e semântica.
+Atuação como **desenvolvedor responsável pela tecnologia** do estudo: construção do aplicativo móvel segundo o método de *Design Instrucional Contextualizado* e apoio às etapas de validação.
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0000--3118--4664-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-3118-4664)
 [![Lattes](https://img.shields.io/badge/Lattes-Currículo-1E3A8A?style=flat-square&logo=googlescholar&logoColor=white)](http://lattes.cnpq.br/3600922455238720)
@@ -159,19 +159,19 @@ Atuação como **desenvolvedor responsável pela tecnologia** do estudo: constru
 
 ## 🎤 Docência, Palestras & Comunidade
 
-- 🎓 **Aula em pós-graduação *stricto sensu*** — UNIFAL-MG, PPG em Enfermagem (Mestrado e Doutorado), disciplina *Tecnologia em Saúde e Educação*: **"Desenvolvimento de aplicativos No-Code: da ideia à implementação"** (nov/2025).
+- 🎓 **Aula em pós-graduação *stricto sensu*** — UNIFAL-MG, PPG em Enfermagem (Mestrado e Doutorado), disciplina *Tecnologia em Saúde e Educação*: **"Desenvolvimento de aplicativos No-Code"**.
 - 🧠 **Palestra "Redes Neurais Artificiais"** — UNIMONTES, com material autoral em LaTeX/Beamer e notebooks de demonstração.
 - 🧪 **Redes Neurais Convolucionais** — aula técnica sobre visão computacional e classificação de imagens.
-- 👨‍🏫 **Orientação e avaliação de projetos de graduação** — Newton Paiva e UNIASSELVI, com trabalhos apresentados no **CIEPE** (IoT com Arduino, irrigação inteligente, mobilidade urbana sustentável).
+- 👨‍🏫 **Orientação e avaliação de projetos de graduação** — Newton Paiva e UNIASSELVI, com trabalhos apresentados no CIEPE.
 - 🎯 **Ensino superior e técnico** — Newton Paiva, UNIASSELVI, FADENORTE e IFNMG (PRONATEC/Rede e-Tec): Arquitetura Web, Banco de Dados, Engenharia de Software e Projeto Integrador.
-- 📹 **86 videoaulas** publicadas em [Estatística e Probabilidade](https://www.youtube.com/playlist?list=PLbLoehbSIAYUFCykmhDHcOhAIv7er7rou), [Matemática Financeira](https://www.youtube.com/playlist?list=PLbLoehbSIAYXHvrPFdzPvz2StCvwDVNym) e [Projeto Integrador](https://www.youtube.com/playlist?list=PLbLoehbSIAYVKOSuhf2p27tRaFlXAFG1T).
+- 📹 **86 videoaulas** publicadas em [Estatística e Probabilidade](https://www.youtube.com/playlist?list=PLbLoehbSIAYUFCykmhDHcOhAIv7er7rou), [Matemática Financeira](https://www.youtube.com/playlist?list=PLbLoehbSIAYWc6P0R4jJYcL0uGxN6m5J8), e [conteúdo solicitado](https://www.youtube.com/watch?v=dSSlUShbAu0&list=PLbLoehbSIAYWV50N_Y2OzrlRRZy0bjGRY).
 - ✍️ **Autoria de conteúdo didático** — disciplina *Backend II com Banco de Dados* (UNIASSELVI/Vitru).
 
 ---
 
 ## 🎓 Formação Acadêmica & Base Científica
 
-> A bagagem acadêmica em computação avançada é um diferencial que amplia minha capacidade de solucionar problemas complexos de software, otimizar performance e aplicar estruturas de dados de alto nível.
+> A bagagem acadêmica em computação avançada é um diferencial que amplia minha capacidade de solucionar problemas complexos de software, otimizar performance e aplicar estruturas de dados de alto desempenho.
 
 - **Doutorado em Modelagem Matemática e Computacional** — CEFET/MG *(em andamento, desde 2025)*
   - Orientador: Alisson Marques da Silva · Linha de pesquisa em sistemas inteligentes
@@ -185,7 +185,7 @@ Atuação como **desenvolvedor responsável pela tecnologia** do estudo: constru
 
 ### 📜 Capacitações complementares (ENAP e outras)
 
-`Inteligência Artificial Generativa` · `LGPD e Proteção de Dados no Setor Público` · `Segurança da Informação & Compliance` · `Gestão de Riscos Corporativos` · `Linguagem Simples no Setor Público` · `Operações com ARP (Drones) em Fiscalização` · `SEI — Sistema Eletrônico de Informações`
+`Inteligência Artificial Generativa` · `LGPD e Proteção de Dados no Setor Público` · `Segurança da Informação & Compliance` · `Gestão de Riscos Corporativos` · `Linguagem Simples no Setor Público`
 
 ---
 
