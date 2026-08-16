@@ -7,8 +7,9 @@
 Aberto a **novos desafios**, **projetos inovadores** e **colaborações**
 
 [![Portfólio](https://img.shields.io/badge/Portfólio-leoproti.com.br-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://leoproti.com.br)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-vieira-guimaraes/)
-[![E-mail](https://img.shields.io/badge/E--mail-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardovieiraxy@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-leonardo--vieira--guimaraes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-vieira-guimaraes/)
+[![E-mail](https://img.shields.io/badge/E--mail-leonardovieiraxy@hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardovieiraxy@hotmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-(38)_99935--2408-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5538999352408?text=Olá%2C%20vi%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20conversar.)
 
 ![Visitantes do perfil](https://komarev.com/ghpvc/?username=LeonardoVieiraGuimaraes&color=4285F4&style=flat-square&label=Visualiza%C3%A7%C3%B5es+de+perfil)
 
@@ -26,7 +27,7 @@ Possuo sólida formação técnica e científica — **Mestre em Modelagem Compu
 
 Também atuo como **professor e palestrante convidado**, com aulas em programa de pós-graduação *stricto sensu* (UNIFAL-MG) e artigo publicado em periódico internacional indexado sobre desenvolvimento e validação de aplicativo móvel.
 
-📍 **Belo Horizonte, MG · Brasil** — Atuação **Remota** / **Híbrida**  
+📍 **Belo Horizonte, MG · Brasil** — Atuação **100% Remota**  
 🗣️ **Idiomas**: 🇧🇷 Português *(Nativo)* · 🇺🇸 Inglês *(Leitura e Documentação Técnica)*
 
 ---
@@ -44,7 +45,7 @@ Também atuo como **professor e palestrante convidado**, com aulas em programa d
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,python,django,cs,dotnet,nodejs,ts,js,react,nextjs,tailwind,postgres,mysql,mongodb,latex,docker,nginx,grafana,prometheus,githubactions,git,bash,linux&perline=8" />
+    <img src="https://skillicons.dev/icons?i=java,spring,python,django,cs,dotnet,nodejs,ts,js,react,nextjs,vue,tailwind,postgres,mysql,mongodb,docker,nginx,grafana,prometheus,githubactions,git,latex,linux&perline=8" />
   </a>
 </div>
 
@@ -55,7 +56,7 @@ Também atuo como **professor e palestrante convidado**, com aulas em programa d
 | Domínio | Tecnologias & Ferramentas |
 | :--- | :--- |
 | **Backend** | Java (Spring Boot), Python (Django / FastAPI / Django Ninja), C# (.NET 8), Node.js (Express), PHP |
-| **Frontend** | React, Next.js, TypeScript, React Native / Expo, TailwindCSS, Vite, HTML5 / CSS3 |
+| **Frontend** | React, Next.js, Vue.js, TypeScript, React Native / Expo, TailwindCSS, Vite, HTML5 / CSS3 |
 | **Bancos de Dados** | PostgreSQL, MySQL, SQL Server, MongoDB, Oracle, PL/SQL, Modelagem Relacional & NoSQL |
 | **Segurança & Identidade** | Keycloak, SSO, OAuth2 / OIDC, JWT, MFA (2FA), Spring Security |
 | **DevOps & Observabilidade** | Docker & Compose, Nginx, Cloudflare Tunnel, GitHub Actions (CI/CD), Prometheus, Grafana, Linux |
