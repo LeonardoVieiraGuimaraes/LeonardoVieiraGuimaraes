@@ -44,7 +44,7 @@ Também atuo como **professor e palestrante convidado**, com aulas em programa d
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,python,django,nodejs,typescript,react,vue,angular,postgres,mysql,mongodb,docker,nginx,git,linux&perline=8" />
+    <img src="https://skillicons.dev/icons?i=java,spring,python,django,cs,dotnet,nodejs,ts,js,react,nextjs,tailwind,postgres,mysql,mongodb,latex,docker,nginx,grafana,prometheus,githubactions,git,bash,linux&perline=8" />
   </a>
 </div>
 
@@ -54,11 +54,13 @@ Também atuo como **professor e palestrante convidado**, com aulas em programa d
 
 | Domínio | Tecnologias & Ferramentas |
 | :--- | :--- |
-| **Backend** | Java (Spring Boot), Python (Django / FastAPI), Node.js (Express / NestJS), PHP |
-| **Frontend** | React, TypeScript, Vue.js, Angular, HTML5 / CSS3, TailwindCSS |
-| **Bancos de Dados** | PostgreSQL, MySQL, MongoDB, Redis, Modelagem Relacional & NoSQL |
-| **DevOps & Infra** | Docker, Docker Compose, Nginx, Cloudflare Tunnel, GitHub Actions (CI/CD), Linux |
-| **Engenharia & Práticas** | REST APIs, Microsserviços, Clean Architecture, SOLID, Design Patterns, TDD |
+| **Backend** | Java (Spring Boot), Python (Django / FastAPI / Django Ninja), C# (.NET 8), Node.js (Express), PHP |
+| **Frontend** | React, Next.js, TypeScript, React Native / Expo, TailwindCSS, Vite, HTML5 / CSS3 |
+| **Bancos de Dados** | PostgreSQL, MySQL, SQL Server, MongoDB, Oracle, PL/SQL, Modelagem Relacional & NoSQL |
+| **Segurança & Identidade** | Keycloak, SSO, OAuth2 / OIDC, JWT, MFA (2FA), Spring Security |
+| **DevOps & Observabilidade** | Docker & Compose, Nginx, Cloudflare Tunnel, GitHub Actions (CI/CD), Prometheus, Grafana, Linux |
+| **Engenharia & Práticas** | REST APIs, Microsserviços, **Arquitetura Hexagonal**, Clean Architecture, SOLID, Design Patterns, Testes automatizados (JUnit, Mockito, xUnit, Gatling) |
+| **Processos & Dados** | BPMN, Camunda 7/8, Activiti, n8n, Mineração de Dados, Sistemas Neuro-Fuzzy, Visão Computacional |
 | **Gestão & Produto** | Product Owner (PO), Scrum / Kanban, Requisitos & Especificação Técnica, Code Review |
 
 ---
