@@ -65,35 +65,120 @@ Também atuo como **professor e palestrante convidado**, com aulas em programa d
 
 ## 🚀 Projetos em Destaque
 
-> Uma seleção dos principais projetos corporativos, microsserviços, produtos publicados e sistemas web. Acesse meu [Portfólio Completo](https://leoproti.com.br) para mais cases.
+> Acesse o [Portfólio Completo](https://leoproti.com.br) para mais cases.
+
+### ⭐ [gerenciamento-endereco](https://github.com/LeonardoVieiraGuimaraes/gerenciamento-endereco) — Sistema com SSO, 2FA e testes automatizados
+
+![.NET](https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Keycloak](https://img.shields.io/badge/Keycloak_26-4D4D4D?style=flat-square&logo=keycloak&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server_2022-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![xUnit](https://img.shields.io/badge/Testes_automatizados-5A9?style=flat-square)
+
+- **Login único (SSO) com verificação em duas etapas**, CRUD com integração ViaCEP, exportação CSV, área administrativa e API REST documentada.
+- Projeto de testes separado, Docker Compose distinto para desenvolvimento e produção, deploy automatizado.
+- 🔗 **No ar**: [enderecos.leoproti.com.br](https://enderecos.leoproti.com.br) · Login: [auth-enderecos.leoproti.com.br](https://auth-enderecos.leoproti.com.br)
+
+### 📱 [A&G Enfermagem](https://aeg.leoproti.com.br/) — App publicado e **validado cientificamente**
+
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite_offline-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+- Suporte à enfermagem prisional: protocolos, CID-10/11, medicamentos e calculadoras clínicas **offline**.
+- 🔬 **IVC 0,962** e **Alfa de Cronbach 0,969**, com 164 profissionais no levantamento, 23 juízes especialistas e 51 enfermeiros — publicado em periódico internacional ([DOI](https://doi.org/10.17533/udea.iee.v44n1e09)).
+- 📜 Registro de autoria (SHA-256 / ICP-Brasil, jul/2024) · 📱 [Google Play](https://play.google.com/store/apps/details?id=com.leonardovieiraxy.informacaoEnfermagemreactNative) · 💻 [Código](https://github.com/LeonardoVieiraGuimaraes/enfermagemInformacao-reactNative)
 
 ### 🏢 [Sistema Sidagro](https://www.sidagro.ima.mg.gov.br/sidagro/login.seam) — Defesa Agropecuária de MG
-> **Stack**: Java EE · Oracle · PO (Product Owner) · Regras de Negócio Corporativas
-- Portal corporativo oficial do Instituto Mineiro de Agropecuária (IMA). Atuação como **Product Owner (PO)**, liderando requisitos de negócio complexos e gestão de suporte de alta disponibilidade.
 
-### 💳 [Plataforma DAE / PIX v2](https://daev2.leoproti.com.br/) — Arrecadação Corporativa
-> **Stack**: React · TypeScript · PostgreSQL · Docker · REST API
-- Evolução do sistema de arrecadação do IMA com integração de pagamentos instantâneos via PIX e DAE em arquitetura distribuída e contêineres Docker.
+![Java](https://img.shields.io/badge/Java_EE-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Product Owner](https://img.shields.io/badge/Product_Owner-0052CC?style=flat-square&logo=jira&logoColor=white)
 
-### 🔑 [IMA Auth](https://ima-auth.leoproti.com.br/) — Microsserviço de Autenticação Única (SSO)
-> **Stack**: Node.js · OAuth2 / JWT · Docker · Express · Microsserviços
-- Serviço centralizado de Single Sign-On (SSO) baseado em OAuth2/JWT para integração entre sistemas legados e novos microsserviços do ecossistema do IMA.
+- Plataforma oficial do IMA. Atuação como **Product Owner**, conduzindo requisitos de negócio complexos e sustentação de alta disponibilidade.
 
-### 📱 [A&G Enfermagem](https://aeg.leoproti.com.br/) — App Mobile Publicado na Google Play
-> **Stack**: React Native · Expo · Android · SQLite Offline
-- Aplicativo de suporte para enfermagem prisional com consultas de protocolos, CID-10/11, medicamentos e calculadoras clínicas offline.
-- 🔬 **Produto de pesquisa validado cientificamente**: IVC 0,962 e Alfa de Cronbach 0,969, com 23 juízes especialistas e 51 enfermeiros — resultados publicados em periódico internacional ([DOI](https://doi.org/10.17533/udea.iee.v44n1e09)).
-- 📜 Obra com **registro de autoria** (SHA-256 / ICP-Brasil, jul/2024).
-- 📱 [Ver na Google Play Store](https://play.google.com/store/apps/details?id=com.leonardovieiraxy.informacaoEnfermagemreactNative)
+### 💳 [Plataforma DAE / PIX v2](https://daev2.leoproti.com.br/) — Arrecadação com Pix
 
-### 🏥 [Sistema SAE & Recepção Hospitalar](https://sae.leoproti.com.br/) — Gestão em Saúde
-> **Stack**: Python · Django · PostgreSQL · Docker
-- Sistemas web assistenciais para triagem, cadastro de pacientes, atendimento obstétrico e fluxo de cirurgia segura.
+![Java](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL_17-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-### 🌐 [leo-portifolio](https://github.com/LeonardoVieiraGuimaraes/leo-portifolio) — Portfólio Web & Infraestrutura Automática
-> **Stack**: React · TypeScript · TailwindCSS · Docker · Nginx · Cloudflare Tunnel · GitHub Actions
-- Website pessoal responsivo e moderno com deploy automatizado via Docker e Cloudflare Tunnel.
+- Arrecadação estadual com **Pix integrado à Secretaria de Fazenda**, em **arquitetura hexagonal** (domínio, aplicação, infraestrutura) com eventos de domínio e webhook idempotente por `endToEnd`.
+
+### 🔑 [IMA Auth](https://ima-auth.leoproti.com.br/) — Microsserviço de SSO
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2_/_JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+
+- Single Sign-On centralizado, integrando sistemas legados e novos microsserviços do ecossistema do IMA.
+
+### 🏥 [SAE & Recepção Hospitalar](https://sae.leoproti.com.br/) — Gestão em Saúde
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=flat-square&logo=gunicorn&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+- Sistematização da Assistência de Enfermagem, triagem, atendimento obstétrico e cirurgia segura. Instrumentos clínicos digitalizados e evoluídos junto com as enfermeiras.
+- 💻 [SAE](https://github.com/LeonardoVieiraGuimaraes/sae-enfermagem-django) · [Recepção Hospitalar](https://github.com/LeonardoVieiraGuimaraes/hospital-enfermagem-django)
+
+### 🌐 [leo-portifolio](https://github.com/LeonardoVieiraGuimaraes/leo-portifolio) — Portfólio com deploy automatizado
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare_Tunnel-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+
 - 🔗 **Online**: [leoproti.com.br](https://leoproti.com.br)
+
+---
+
+## 🔧 Infraestrutura & Engenharia de Plataforma
+
+| Repositório | Stack | O que resolve |
+| :--- | :--- | :--- |
+| **[monitoring-stack](https://github.com/LeonardoVieiraGuimaraes/monitoring-stack)** | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | Observabilidade completa, com dashboards de Cloudflare Tunnel e Docker |
+| **[workflow](https://github.com/LeonardoVieiraGuimaraes/workflow)** | ![Camunda](https://img.shields.io/badge/Camunda_7_e_8-FC5D0D?style=flat-square&logo=camunda&logoColor=white) ![BPMN](https://img.shields.io/badge/BPMN-informational?style=flat-square) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) | Motores de workflow e automação de processos de negócio |
+| **[SpringBootDeploy](https://github.com/LeonardoVieiraGuimaraes/SpringBootDeploy)** | ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) | Build multi-stage e pipeline de deploy |
+| **[ArquiteturaWebSpringBoot](https://github.com/LeonardoVieiraGuimaraes/ArquiteturaWebSpringBoot)** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare_Tunnel-F38020?style=flat-square&logo=cloudflare&logoColor=white) | Publicação sem IP fixo nem porta aberta |
+| **[Slide](https://github.com/LeonardoVieiraGuimaraes/Slide)** | ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white) ![Make](https://img.shields.io/badge/Makefile-427819?style=flat-square) | Gerador próprio de apresentações, com templates e layouts |
+
+---
+
+## 📚 Material Didático & Pesquisa — código aberto
+
+> 18 disciplinas ministradas em 15 anos. Todo o material está público, documentado e executável.
+
+### Engenharia de Software
+
+| Repositório | ⭐ | Stack |
+| :--- | :-- | :--- |
+| **[OrientacaoObjetos](https://github.com/LeonardoVieiraGuimaraes/OrientacaoObjetos)** — 60 arquivos Java e 34 diagramas UML | ![Stars](https://img.shields.io/github/stars/LeonardoVieiraGuimaraes/OrientacaoObjetos?style=flat-square&label=) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![PlantUML](https://img.shields.io/badge/PlantUML-informational?style=flat-square) |
+| **[ArquiteturaAplicacaoWeb](https://github.com/LeonardoVieiraGuimaraes/ArquiteturaAplicacaoWeb)** — segurança, documentação, monitoramento, **teste de carga com Gatling** | ![Stars](https://img.shields.io/github/stars/LeonardoVieiraGuimaraes/ArquiteturaAplicacaoWeb?style=flat-square&label=) | ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Gatling](https://img.shields.io/badge/Gatling-FF9E2A?style=flat-square) ![JUnit](https://img.shields.io/badge/JUnit_+_Mockito-25A162?style=flat-square&logo=junit5&logoColor=white) |
+| **[ProgramacaoBackendIIIBancoDados](https://github.com/LeonardoVieiraGuimaraes/ProgramacaoBackendIIIBancoDados)** — REST, injeção de dependência e **JWT** | — | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) |
+| **[ProgramacaoBackendIIBancoDados](https://github.com/LeonardoVieiraGuimaraes/ProgramacaoBackendIIBancoDados)** — conteúdo de **autoria própria** (UNIASSELVI) | — | ![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+| **[ProgramacaoWeb](https://github.com/LeonardoVieiraGuimaraes/ProgramacaoWeb)** — DOM e React | ![Stars](https://img.shields.io/github/stars/LeonardoVieiraGuimaraes/ProgramacaoWeb?style=flat-square&label=) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) |
+
+### Ciência de Dados & Inteligência Computacional
+
+| Repositório | Tema | Stack |
+| :--- | :--- | :--- |
+| **[InteligenciaComputacional](https://github.com/LeonardoVieiraGuimaraes/InteligenciaComputacional)** | Sistemas fuzzy, agrupamento, metodologia de experimentos | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
+| **[dissertacaoMestrado](https://github.com/LeonardoVieiraGuimaraes/dissertacaoMestrado)** | Classificação de uvas por análise de textura | ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white) |
+| **[diagnosticosDeteccaoFalhas](https://github.com/LeonardoVieiraGuimaraes/diagnosticosDeteccaoFalhas-SistemasInteligentes-mestrado)** | Perceptron, ADALINE, **ANFIS**, Mamdani, algoritmo genético | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Fuzzy](https://img.shields.io/badge/Neuro--Fuzzy-8A2BE2?style=flat-square) |
+| **[mineracaoDados-doutorado](https://github.com/LeonardoVieiraGuimaraes/mineracaoDados-doutorado)** | Mineração de dados em bases públicas brasileiras | ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) |
+| **[visaoComputacional-doutorado](https://github.com/LeonardoVieiraGuimaraes/visaoComputacional-doutorado)** | Keypoints aprendidos (Key.Net), HPatches, calibração de câmera | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) |
+| **[TeoriaGrafos](https://github.com/LeonardoVieiraGuimaraes/TeoriaGrafos)** | Árvore geradora mínima e caminho mínimo | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
+| **[MiniCursoPalestra](https://github.com/LeonardoVieiraGuimaraes/MiniCursoPalestra)** | Redes neurais, CNN e visão computacional | ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) |
 
 ---
 
