@@ -2,7 +2,7 @@
 
 # Olá, eu sou Leonardo Vieira Guimarães 👋
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=4285F4&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Engenheiro+de+Software;Product+Owner+%26+Tech+Lead;Arquitetura+Web;DevOps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=4285F4&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Engenheiro+Computacional;Product+Owner+%26+Tech+Lead;Arquitetura+Web;DevOps" alt="Typing SVG" />
 
 Aberto a **novos desafios**, **projetos inovadores** e **colaborações**
 
@@ -17,22 +17,29 @@ Aberto a **novos desafios**, **projetos inovadores** e **colaborações**
 
 ## 💻 Sobre mim
 
-Desenvolvedor **Full Stack** e **Engenheiro da Computação**, construindo sistemas web corporativos de alta disponibilidade, APIs RESTful e microsserviços em projetos freelance/PJ **desde 2014**.
+Desenvolvedor **Full Stack** e **Engenheiro da Computação**, construindo sistemas web corporativos de alta disponibilidade, APIs RESTful e microsserviços **desde 2014**.
 
-Atuo no **Instituto Mineiro de Agropecuária (IMA)** há **mais de 20 anos**, hoje como **Desenvolvedor Backend (GLS/TI)** e **Product Owner** do sistema Sidagro — trajetória que passou pelo atendimento, suporte técnico e evolução de sistemas corporativos.
+Trabalho com **desenvolvimento de sistemas** e **Product Ownership** em plataformas de governo usadas por milhares de produtores rurais e servidores em Minas Gerais — do levantamento de requisitos e das regras de negócio até a sustentação em produção. É aí que aprendi a tratar seriamente o que só aparece quando o sistema está no ar: autenticação, integração entre serviços, idempotência e observabilidade.
 
-Possuo sólida formação técnica e científica — **Mestre em Modelagem Computacional e Sistemas** (UNIMONTES) e **Doutorando em Modelagem Matemática e Computacional** (CEFET/MG) — o que reforça minha atuação em soluções baseadas em dados, automação e inteligência computacional.
+Fui o **desenvolvedor responsável** pelo aplicativo **A&G Enfermagem**, produto de um estudo publicado em periódico internacional indexado. Construí o aplicativo do zero em React Native, acompanhei as quatro fases do método de *Design Instrucional Contextualizado* e ajustei o produto a cada rodada de validação — **23 juízes especialistas** (IVC 0,962) e **51 enfermeiros** (Alfa de Cronbach 0,969), com 164 profissionais no levantamento inicial.
 
-Também atuo como **professor e palestrante convidado**, com aulas em programa de pós-graduação *stricto sensu* (UNIFAL-MG) e artigo publicado em periódico internacional indexado sobre desenvolvimento e validação de aplicativo móvel.
+Também atuo como **professor e palestrante convidado**, com aulas em programa de pós-graduação *stricto sensu* (UNIFAL-MG).
 
-📍 **Belo Horizonte, MG · Brasil** — Atuação **100% Remota**  
+**Formação**
+- **Doutorado em Modelagem Matemática e Computacional** — CEFET-MG *(em andamento)*
+- **Mestrado em Modelagem Computacional e Sistemas** — UNIMONTES
+- **Especialização em Matemática e Estatística** — UFLA
+- **Engenharia da Computação** — FACIT
+- **Licenciatura em Matemática** — UNIMONTES
+
+📍 **Belo Horizonte, MG · Brasil** — Atuação **Remota**  
 🗣️ **Idiomas**: 🇧🇷 Português *(Nativo)* · 🇺🇸 Inglês *(Leitura e Documentação Técnica)*
 
 ---
 
 ## 🔥 Foco Atual
 
-- 🔭 **Sistemas Corporativos**: Desenvolvimento e modernização de soluções backend e microsserviços no **IMA**.
+- 🔭 **Sistemas Corporativos**: Desenvolvimento e modernização de soluções backend e microsserviços em produção.
 - 🔬 **Doutorado (CEFET/MG)**: **Detecção de fraudes em Guias de Trânsito Animal (GTA)** com algoritmos neuro-fuzzy evolutivos, aprendizado incremental e modelos interpretáveis.
 - ⚡ **DevOps & Arquitetura**: Aperfeiçoamento de esteiras CI/CD, containerização com Docker e Clean Architecture.
 - 💬 **Networking & Consultoria**: Disponível para trocas de conhecimento em Arquitetura Web, Python, Java e DevOps.
