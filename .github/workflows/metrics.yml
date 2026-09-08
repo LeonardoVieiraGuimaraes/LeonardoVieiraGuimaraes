@@ -1,0 +1,61 @@
+name: Generate Metrics
+
+on:
+  # Roda diariamente às 06:00 UTC (03:00 BRT), fora do horário do snake.
+  schedule:
+    - cron: "0 6 * * *"
+  # Permite disparar manualmente pela aba Actions.
+  workflow_dispatch:
+
+# Necessário: a action commita os SVGs gerados de volta no repositório.
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      # Visão geral: cabeçalho, repositórios e linhas de código alteradas.
+      - name: Visão geral
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.classic.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: header, repositories
+          plugin_lines: yes
+          config_timezone: America/Sao_Paulo
+
+      # Calendário isométrico de contribuições do ano inteiro.
+      - name: Calendário isométrico
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.isocalendar.fullyear.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          config_timezone: America/Sao_Paulo
+
+      # Atividade recente: PRs, issues, releases e revisões.
+      - name: Atividade recente
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.activity.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 0
+          plugin_activity_filter: issue, pr, release, review, ref/create
+          config_timezone: America/Sao_Paulo
+
+      # Ícones dos tópicos dos repositórios. Não exige token.
+      - name: Tópicos
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.topics.icons.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_topics: yes
+          plugin_topics_limit: 0
+          plugin_topics_mode: icons
