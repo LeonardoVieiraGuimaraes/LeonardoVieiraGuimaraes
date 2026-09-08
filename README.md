@@ -119,6 +119,9 @@ Também atuo como **professor e palestrante convidado**, com aulas em programa d
 
 - Arrecadação estadual com **Pix integrado à Secretaria de Fazenda**, em **arquitetura hexagonal** (domínio, aplicação, infraestrutura) com eventos de domínio e webhook idempotente por `endToEnd`.
 
+<details>
+<summary><b>➕ Mais três projetos</b> — SSO centralizado, gestão hospitalar e portfólio</summary>
+
 ### 🔑 [IMA Auth](https://ima-auth.leoproti.com.br/) — Microsserviço de SSO
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -148,9 +151,14 @@ Também atuo como **professor e palestrante convidado**, com aulas em programa d
 
 - 🔗 **Online**: [leoproti.com.br](https://leoproti.com.br)
 
+</details>
+
 ---
 
 ## 🔧 Infraestrutura & Engenharia de Plataforma
+
+<details>
+<summary><b>🔧 Ver os 5 repositórios de infraestrutura</b></summary>
 
 | Repositório | Stack | O que resolve |
 | :--- | :--- | :--- |
@@ -160,11 +168,16 @@ Também atuo como **professor e palestrante convidado**, com aulas em programa d
 | **[ArquiteturaWebSpringBoot](https://github.com/LeonardoVieiraGuimaraes/ArquiteturaWebSpringBoot)** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare_Tunnel-F38020?style=flat-square&logo=cloudflare&logoColor=white) | Publicação sem IP fixo nem porta aberta |
 | **[Slide](https://github.com/LeonardoVieiraGuimaraes/Slide)** | ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white) ![Make](https://img.shields.io/badge/Makefile-427819?style=flat-square) | Gerador próprio de apresentações, com templates e layouts |
 
+</details>
+
 ---
 
 ## 📚 Material Didático & Pesquisa — código aberto
 
 > 18 disciplinas ministradas em 15 anos. Todo o material está público, documentado e executável.
+
+<details>
+<summary><b>📚 Ver os 13 repositórios de material didático</b></summary>
 
 ### Engenharia de Software
 
@@ -187,6 +200,8 @@ Também atuo como **professor e palestrante convidado**, com aulas em programa d
 | **[visaoComputacional-doutorado](https://github.com/LeonardoVieiraGuimaraes/visaoComputacional-doutorado)** | Keypoints aprendidos (Key.Net), HPatches, calibração de câmera | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) |
 | **[TeoriaGrafos](https://github.com/LeonardoVieiraGuimaraes/TeoriaGrafos)** | Árvore geradora mínima e caminho mínimo | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
 | **[MiniCursoPalestra](https://github.com/LeonardoVieiraGuimaraes/MiniCursoPalestra)** | Redes neurais, CNN e visão computacional | ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) |
+
+</details>
 
 ---
 
@@ -252,6 +267,9 @@ Atuação como **desenvolvedor responsável pela tecnologia** do estudo: constru
 
 ## 🎤 Docência, Palestras & Comunidade
 
+<details>
+<summary><b>🎤 Ver atuação em docência, palestras e comunidade</b></summary>
+
 - 🎓 **Aula em pós-graduação *stricto sensu*** — UNIFAL-MG, PPG em Enfermagem (Mestrado e Doutorado), disciplina *Tecnologia em Saúde e Educação*: **"Desenvolvimento de aplicativos No-Code"**.
 - 🧠 **Palestra "Redes Neurais Artificiais"** — UNIMONTES, com material autoral em LaTeX/Beamer e notebooks de demonstração.
 - 🧪 **Redes Neurais Convolucionais** — aula técnica sobre visão computacional e classificação de imagens.
@@ -259,6 +277,8 @@ Atuação como **desenvolvedor responsável pela tecnologia** do estudo: constru
 - 🎯 **Ensino superior e técnico** — Newton Paiva, UNIASSELVI, FADENORTE e IFNMG (PRONATEC/Rede e-Tec): Arquitetura Web, Banco de Dados, Engenharia de Software e Projeto Integrador.
 - 📹 **86 videoaulas** publicadas em [Estatística e Probabilidade](https://www.youtube.com/playlist?list=PLbLoehbSIAYUFCykmhDHcOhAIv7er7rou), [Matemática Financeira](https://www.youtube.com/playlist?list=PLbLoehbSIAYWc6P0R4jJYcL0uGxN6m5J8), e [Visão Computacional](https://www.youtube.com/watch?v=dSSlUShbAu0&list=PLbLoehbSIAYWV50N_Y2OzrlRRZy0bjGRY).
 - ✍️ **Autoria de conteúdo didático** — disciplina *Backend II com Banco de Dados* (UNIASSELVI/Vitru).
+
+</details>
 
 ---
 
