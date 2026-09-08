@@ -45,17 +45,6 @@ jobs:
           base: ""
           plugin_activity: yes
           plugin_activity_limit: 5
-          plugin_activity_days: 0
-          plugin_activity_filter: issue, pr, release, review, ref/create
+          plugin_activity_days: 14
+          plugin_activity_filter: issue, pr, release, review
           config_timezone: America/Sao_Paulo
-
-      # Ícones dos tópicos dos repositórios. Não exige token.
-      - name: Tópicos
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.topics.icons.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_topics: yes
-          plugin_topics_limit: 0
-          plugin_topics_mode: icons
