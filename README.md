@@ -255,6 +255,12 @@ Também atuo como **professor e palestrante convidado**, com aulas em programa d
   </tr>
 </table>
 
+<br/>
+
+<a href="https://wakatime.com/@leonardovieiraguimaraes">
+  <img width="60%" src="https://github-readme-stats-phi-five.vercel.app/api/wakatime?username=leonardovieiraguimaraes&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Tempo de codificação por linguagem — WakaTime" />
+</a>
+
 </div>
 
 </details>
