@@ -35,16 +35,3 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           config_timezone: America/Sao_Paulo
-
-      # Atividade recente: PRs, issues, releases e revisões.
-      - name: Atividade recente
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.activity.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_days: 14
-          plugin_activity_filter: issue, pr, release, review
-          config_timezone: America/Sao_Paulo
