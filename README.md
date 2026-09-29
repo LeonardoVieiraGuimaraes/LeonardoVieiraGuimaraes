@@ -228,14 +228,6 @@ Também atuo como **professor e palestrante convidado**, com aulas em programa d
   </tr>
 </table>
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LeonardoVieiraGuimaraes&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%" />
-
-<br/><br/>
-
-<img src="./metrics.plugin.isocalendar.fullyear.svg" alt="Calendário isométrico de contribuições" width="100%" />
-
 </div>
 
 <details>
@@ -249,6 +241,10 @@ Também atuo como **professor e palestrante convidado**, com aulas em programa d
 <br/><br/>
 
 <img width="72%" src="./metrics.classic.svg" alt="Visão geral do perfil e repositórios" />
+
+<br/><br/>
+
+<img width="72%" src="./metrics.plugin.isocalendar.fullyear.svg" alt="Calendário isométrico de contribuições" />
 
 <br/><br/>
 
