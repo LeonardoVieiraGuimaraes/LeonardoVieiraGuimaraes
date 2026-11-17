@@ -231,33 +231,16 @@ Também atuo como **professor e palestrante convidado**, com aulas em programa d
 </div>
 
 <details>
-<summary><b>📈 Métricas complementares</b> — horário produtivo, linguagem por commits e perfil consolidado</summary>
+<summary><b>📈 Métricas complementares</b> — perfil consolidado e calendário isométrico de contribuições</summary>
 
 <div align="center">
 <br/>
-
-<img width="72%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeonardoVieiraGuimaraes&theme=nord_dark" alt="Perfil consolidado" />
-
-<br/><br/>
 
 <img width="72%" src="./metrics.classic.svg" alt="Visão geral do perfil e repositórios" />
 
 <br/><br/>
 
 <img width="72%" src="./metrics.plugin.isocalendar.fullyear.svg" alt="Calendário isométrico de contribuições" />
-
-<br/><br/>
-
-<table border="0">
-  <tr>
-    <td align="center">
-      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LeonardoVieiraGuimaraes&theme=nord_dark&utcOffset=-3" alt="Horário mais produtivo (UTC-3)" />
-    </td>
-    <td align="center">
-      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LeonardoVieiraGuimaraes&theme=nord_dark" alt="Linguagem com mais commits" />
-    </td>
-  </tr>
-</table>
 
 </div>
 
